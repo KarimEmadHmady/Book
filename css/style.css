@@ -298,6 +298,7 @@ body,
   animation: im-3 4s linear forwards;
   opacity: 0;
   transition: 0.5s;
+  animation: img 4s linear forwards;
 }
 .img-sec1 img {
   width: 400px;
