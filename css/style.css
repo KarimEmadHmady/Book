@@ -859,6 +859,9 @@ form .form-row .textarea {
       font-size: 45px;
       margin: auto auto 15px auto;
     }
+    .email{
+      margin-bottom: 2px;
+    }
   }
   @media (max-width: 565px) {
     .email p i {
